@@ -73,11 +73,10 @@ Generates high-resolution (600 DPI) diagrams for hydrogeochemical evolution anal
 * **Visualization:** Matplotlib (Customized for hydro-diagrams)
 * **Database:** SQLite (Local structured storage)
 
-## 🔗 Citation
+## 🔗 Reference
 
-This software is developed as part of a research project at the **Water Research Institute**. If you use this tool, please cite:
-
-> **Nemati Mansour, A.**, Kardan Moghadam, H. (2025). *Development of Intelligent Water Quality Monitoring Software (HydroQual Prime)*. Water Research Institute, Ministry of Energy, Tehran, Iran.
+This software was developed as a technical research project for the **Water Research Institute (Ministry of Energy)**.
+> **Nemati Mansour, A.** (2025). *Development of Intelligent Water Quality Monitoring Software (HydroQual Prime)*. National Elites Foundation Project, Water Research Institute, Tehran.
 
 ## 👨‍💻 Developer & Contact
 
