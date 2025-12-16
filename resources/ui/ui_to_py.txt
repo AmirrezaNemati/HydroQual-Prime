@@ -1,0 +1,1 @@
+pyuic5 -x WAPlus.ui -o amir.py
